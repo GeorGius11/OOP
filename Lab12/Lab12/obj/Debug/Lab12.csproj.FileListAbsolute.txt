@@ -1,0 +1,13 @@
+E:\OOP\Lab12\Lab12\obj\Debug\Lab12.csprojAssemblyReference.cache
+E:\OOP\Lab12\Lab12\obj\Debug\Lab12.Form1.resources
+E:\OOP\Lab12\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+E:\OOP\Lab12\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+E:\OOP\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+E:\OOP\Lab12\Lab12\obj\Debug\Lab12.ProductForm.resources
+E:\OOP\Lab12\Lab12\bin\Debug\Lab12.exe.config
+E:\OOP\Lab12\Lab12\bin\Debug\Lab12.exe
+E:\OOP\Lab12\Lab12\bin\Debug\Lab12.pdb
+E:\OOP\Lab12\Lab12\obj\Debug\Lab12.exe
+E:\OOP\Lab12\Lab12\obj\Debug\Lab12.pdb
+E:\OOP\Lab12\Lab12\obj\Debug\Lab12.DeviceForm.resources
+E:\OOP\Lab12\Lab12\obj\Debug\Lab12.Device2Form.resources
