@@ -1,0 +1,2 @@
+fff 32 23 32 23 off Second-hand
+fff 23 32 23 32 off New
