@@ -1,0 +1,10 @@
+E:\VS19\CursorTP\TP\bin\Debug\TP.exe.config
+E:\VS19\CursorTP\TP\bin\Debug\TP.exe
+E:\VS19\CursorTP\TP\bin\Debug\TP.pdb
+E:\VS19\CursorTP\TP\obj\Debug\TP.csprojAssemblyReference.cache
+E:\VS19\CursorTP\TP\obj\Debug\TP.Form1.resources
+E:\VS19\CursorTP\TP\obj\Debug\TP.Properties.Resources.resources
+E:\VS19\CursorTP\TP\obj\Debug\TP.csproj.GenerateResource.cache
+E:\VS19\CursorTP\TP\obj\Debug\TP.csproj.CoreCompileInputs.cache
+E:\VS19\CursorTP\TP\obj\Debug\TP.exe
+E:\VS19\CursorTP\TP\obj\Debug\TP.pdb
