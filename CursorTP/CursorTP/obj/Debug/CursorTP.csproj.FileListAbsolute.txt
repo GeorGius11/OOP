@@ -1,0 +1,7 @@
+E:\VS19\CursorTP\CursorTP\bin\Debug\CursorTP.exe.config
+E:\VS19\CursorTP\CursorTP\bin\Debug\CursorTP.exe
+E:\VS19\CursorTP\CursorTP\bin\Debug\CursorTP.pdb
+E:\VS19\CursorTP\CursorTP\obj\Debug\CursorTP.csprojAssemblyReference.cache
+E:\VS19\CursorTP\CursorTP\obj\Debug\CursorTP.csproj.CoreCompileInputs.cache
+E:\VS19\CursorTP\CursorTP\obj\Debug\CursorTP.exe
+E:\VS19\CursorTP\CursorTP\obj\Debug\CursorTP.pdb
