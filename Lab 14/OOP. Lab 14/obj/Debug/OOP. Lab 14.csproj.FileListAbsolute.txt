@@ -1,0 +1,12 @@
+E:\OOP\Lab 14\OOP. Lab 14\obj\Debug\OOP. Lab 14.csproj.AssemblyReference.cache
+E:\OOP\Lab 14\OOP. Lab 14\obj\Debug\OOP.Lab_14.Form1.resources
+E:\OOP\Lab 14\OOP. Lab 14\obj\Debug\OOP.Lab_14.Properties.Resources.resources
+E:\OOP\Lab 14\OOP. Lab 14\obj\Debug\OOP. Lab 14.csproj.GenerateResource.cache
+E:\OOP\Lab 14\OOP. Lab 14\obj\Debug\OOP. Lab 14.csproj.CoreCompileInputs.cache
+E:\OOP\Lab 14\OOP. Lab 14\bin\Debug\OOP.Lab_14.exe.config
+E:\OOP\Lab 14\OOP. Lab 14\bin\Debug\OOP.Lab_14.exe
+E:\OOP\Lab 14\OOP. Lab 14\bin\Debug\OOP.Lab_14.pdb
+E:\OOP\Lab 14\OOP. Lab 14\obj\Debug\OOP.Lab_14.exe
+E:\OOP\Lab 14\OOP. Lab 14\obj\Debug\OOP.Lab_14.pdb
+E:\OOP\Lab 14\OOP. Lab 14\obj\Debug\OOP.Lab_14.Form2.resources
+E:\OOP\Lab 14\OOP. Lab 14\obj\Debug\OOP.Lab_14.Form3.resources
