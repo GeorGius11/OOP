@@ -1,0 +1,4 @@
+﻿  ASD. Lab 10.cpp
+E:\OOP\ASD. Lab 10\ASD. Lab 10\ASD. Lab 10.cpp(4,1): warning C4005: 'INFINITY': macro redefinition
+E:\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(88): message : see previous definition of 'INFINITY'
+  ASD. Lab 10.vcxproj -> E:\OOP\ASD. Lab 10\Debug\ASD. Lab 10.exe
